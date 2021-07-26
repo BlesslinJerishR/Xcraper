@@ -1,9 +1,10 @@
 # NodeScraper
 Website Scraper made using pure JavaScript and Node JS .
 
->> JavaScript
->> 
+> JavaScript
+> 
 >> Node JS
->>> npm
+>> 
+>> npm
 
 $- npm install website-scraper
