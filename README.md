@@ -1,5 +1,5 @@
 # NodeScraper
-Website Scraper made using pure JavaScript and Node JS .
+Website Scraper made using vanilla JavaScript and Node JS .
 
 > JavaScript
 > 
