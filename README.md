@@ -13,4 +13,8 @@ Website Scraper made using pure JavaScript and Node JS .
 npm install website-scraper
 ```
 
+```sh
+node website-scraper.js
+```
+
 ##### Developer : Mastermindx33
