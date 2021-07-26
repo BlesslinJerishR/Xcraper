@@ -3,7 +3,7 @@ Website Scraper made using vanilla JavaScript and Node JS .
 
 > JavaScript
 > 
->> Node JS
+>- Node JS
 >> 
 >> npm
 >> 
