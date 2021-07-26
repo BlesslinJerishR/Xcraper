@@ -7,4 +7,8 @@ Website Scraper made using pure JavaScript and Node JS .
 >> 
 >> npm
 
-$- npm install website-scraper
+## Installation
+
+```sh
+npm install website-scraper
+```
