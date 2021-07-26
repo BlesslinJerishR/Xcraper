@@ -6,6 +6,8 @@ Website Scraper made using pure JavaScript and Node JS .
 >> Node JS
 >> 
 >> npm
+>> 
+>> node
 
 ## Installation
 
