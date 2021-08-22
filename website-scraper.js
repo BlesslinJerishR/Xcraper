@@ -13,7 +13,7 @@ scrape({
     maxDepth: 50,
     prettifyUrls: true,
     filenameGenerator: 'bySiteStructure',
-    directory: './Downloaded-websites'
+    directory: './Cloned-websites'
 }).then((data) => {
     console.log("Entire website succesfully downloaded");
 }).catch((err) => {
