@@ -2,7 +2,7 @@
 // The files are saved in the same structure as the structure of the website, by using the `bySiteStructure` filenameGenerator.
 // Links to other websites are filtered out by the urlFilter
 const scrape = require('website-scraper');
-const websiteUrl = 'https://jacekjeznach.com/';
+const websiteUrl = '# URL2Scrape';
 
 scrape({
     urls: [websiteUrl],
