@@ -1,13 +1,13 @@
-# NodeScraper
+# Xcraper
 Website Scraper made using vanilla JavaScript and Node JS .
 
 > JavaScript
 > 
 >- Node JS
 >> 
->> npm
+>  - npm
 >> 
->> node
+>  - node
 
 ## Installation
 
@@ -19,4 +19,4 @@ npm install website-scraper
 node website-scraper.js
 ```
 
-##### Developer : Mastermindx33
+##### **[ Developer : Blesslin Jerish R ]**
